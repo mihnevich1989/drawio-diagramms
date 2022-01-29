@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T12:24:46.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="27_tucWmTECN8WVlAdFv" version="16.5.2" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-01-29T12:25:31.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Le4qtu3gBY_VLDy9Gp-O" version="16.5.2" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Stickers works">
     <mxGraphModel dx="1872" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -515,6 +515,14 @@
         <mxCell id="XIRnP4KIkjxSlbMDe-v6-130" value="Close sticker" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1100" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uRzU7flRuuqk0dEhSkKG" name="Database details">
+    <mxGraphModel dx="1872" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="zhI0IFdriHLYZrskyVZN-0" />
+        <mxCell id="zhI0IFdriHLYZrskyVZN-1" parent="zhI0IFdriHLYZrskyVZN-0" />
       </root>
     </mxGraphModel>
   </diagram>
