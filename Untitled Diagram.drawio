@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T16:42:29.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="l32a2T2gBDcLZlHR3Lwl" version="16.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-29T16:43:03.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="tsORQgetIAaC_bxvZ3FQ" version="16.5.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Stickers works">
-    <mxGraphModel dx="4720" dy="1327" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3383" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -210,7 +210,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K6H13gkPwvNcMKXw1qMp-4" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K6H13gkPwvNcMKXw1qMp-0" target="K6H13gkPwvNcMKXw1qMp-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K6H13gkPwvNcMKXw1qMp-0" value="Have date?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1175.5" y="638.75" width="89" height="87.5" as="geometry" />
